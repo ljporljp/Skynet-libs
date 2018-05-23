@@ -1,3 +1,4 @@
+--author:liujinpeng
 local skynet = require "skynet"
 
 local CMD = {}
